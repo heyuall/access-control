@@ -51,8 +51,7 @@ nécessaire pour la comparaison et l’identification
 #### OS: 
 to use operating system functions to load, read, write in files Pickle : implements binary protocols for serializing and de- serializing a Python object structure. Xlsxwriter : to create, write and read a excel file
 
-#### Tkinter: 
-to design the user interface
+
 
 
 
