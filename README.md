@@ -1,8 +1,8 @@
 "# access-control" 
-Ce code est basé sur la bibliothèque face_recognition de python  qui nécessite l’installation de dlib.
+#Ce code est basé sur la bibliothèque face_recognition de python  qui nécessite l’installation de dlib.
 Néanmoins, la configuration s’avère pénible et peut causer des problèmes au cours de l’installation de dlib(bibliothèque de deep learning).Pour cela je veux parler en détaille de cette partie. 
 Pour tester le code il faut suivre les étapes :
-1-installer la version anaconda de python 
+#1-installer la version anaconda de python 
 2- Création de l’environnement virtuel (nécessaire pour interpréter le code python) :
 Conda create – name opencv–env python3.7
 3- installer opencv:
